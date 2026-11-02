@@ -1,0 +1,8 @@
+.allProd{
+    margin-top: 50px;
+    padding: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+}
+

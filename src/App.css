@@ -1,0 +1,10 @@
+.app{
+    text-align: center;
+}
+
+.subAppContainer{
+
+    display: flex;
+    justify-content: space-evenly;
+
+}

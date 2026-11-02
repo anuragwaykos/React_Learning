@@ -1,0 +1,5 @@
+https://fakestoreapi.com/products
+
+1. axios --
+2. feach()
+3. Ajax
